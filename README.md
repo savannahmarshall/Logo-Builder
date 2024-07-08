@@ -1,21 +1,19 @@
 # SVG-Logo-Maker
 
 ## Description
-This command-line application functions takes in user input to generate a logo and save it as an SVG file. The application prompts the user to select a color and shape, provide text for the logo, and save the generated SVG to a .svg file.
+This command-line application generates a logo based on user input and saves it as an SVG file. Users can select a shape and color, provide text for the logo, and save the generated SVG to a .svg file.
 
-While completing this application, I learned how to:
+### Key Learnings:
+* Interactive Command-Line Prompts: Refined skills in creating interactive command-line prompts using Node.js.
+* Class Utilization: Leveraged classes to define various shape and color options for the logo.
+* Switch Statements: Implemented switch statements for conditional logic based on user choices.
+* Jest Framework: Developed and ran tests using the Jest framework to ensure code reliability.
 
-* Revisit creating interactive command-line prompts for a Node.js application.
-* Utilize classes to create different shape and color options for the logo.
-* Use a switch statement.
-* Create different tests using Jest framework.
-
-Some challenges I faced were:
-
-* Creating the tests was difficult for me to figure out because there are so many parts that need to be included.
-* I had a bug in my code where I was trying to import inquirer.
-* The switch/case was confusing at first and I had to research a few examples on how to set it up.]
-* I had trouble figuring out how to center the text for the square and circle logo options.
+### Challenges Faced:
+* Testing Complexity: Understanding the numerous components needed for comprehensive tests was challenging.
+* Inquirer Import Issue: Encountered and resolved a bug related to importing the Inquirer package.
+* Switch/Case Implementation: Initially found switch/case statements confusing but overcame this by researching examples.
+* Text Centering: Faced difficulties in centering text within the square and circle shapes, which required additional research and adjustments.
 
 ## Table of Contents
   
