@@ -52,7 +52,7 @@ You should now see your customized logo in the browser, displaying the text, sha
 
 ![screenshot of logo example](https://github.com/savannahmarshall/SVG-Logo-Maker/blob/main/assets/Logo.png)
 
-![screenshot of passing tests](https://github.com/savannahmarshall/SVG-Logo-Maker/blob/main/assets/passing-tests.png)
+![screenshot of passing tests](https://github.com/savannahmarshall/SVG-Logo-Maker/blob/main/assets/passing-test-c10.png)
 
 ![screenshot of logo questions and answers in command line](https://github.com/savannahmarshall/SVG-Logo-Maker/blob/main/assets/commandline.png)
 
