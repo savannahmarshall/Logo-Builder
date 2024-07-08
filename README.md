@@ -54,6 +54,8 @@ Please click [here]() to view a demo on how to use this application.
 
 ![screenshot of logo questions and answers in command line](https://github.com/savannahmarshall/SVG-Logo-Maker/blob/main/assets/commandline.png)
 
+![screenshot of passing tests](https://github.com/savannahmarshall/SVG-Logo-Maker/blob/main/assets/passing-tests.png)
+
 
 
 
