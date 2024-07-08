@@ -47,7 +47,7 @@ To use this application, follow these steps:
 
 You should now see your customized logo in the browser, displaying the text, shape, and colors you selected.
 
-Please click [here]() to view a demo on how to use this application.
+Please click [here](https://drive.google.com/file/d/1xtWSBOwlBfczxfX7gSEPx5Z4ar7HzEIV/view) to view a demo on how to use this application.
 
 
 ![screenshot of logo example](https://github.com/savannahmarshall/SVG-Logo-Maker/blob/main/assets/Logo.png)
