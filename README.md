@@ -33,9 +33,9 @@ To use this application, you must install [Node.js](https://nodejs.org/en). Befo
 
 To use this application, follow these steps:
 
-1. Ensure Node.js is Installed: Confirm that Node.js is installed on your machine. If not, download and install it from the official Node.js website.
+1. Ensure Node.js is Installed: Confirm that Node.js is installed on your machine. If not, download and install it from the official Node.js website which can be found in the installation section above.
 
-2. Install Dependencies: Navigate to the project folder in your command line and run the following commands to install the necessary dependencies:
+2. Install Dependencies: Navigate to the project folder in your command-line and run the following commands to install the necessary dependencies:
    * npm install inquirer@8.2.4
    * npm install --save-dev jest
 3. Run the Application: Initialize the command-line prompts by typing:
