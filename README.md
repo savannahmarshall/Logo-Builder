@@ -77,5 +77,6 @@ To run the tests, ensure that Jest has been installed using the command "npm ins
 
 ## Questions
 Please contact me directly with any questions. My information is below:  
+
 GitHub: https://github.com/savannahmarshall  
 Email: savvymarshall@gmail.com
