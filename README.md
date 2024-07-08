@@ -74,7 +74,7 @@ To ensure the reliability of the application, Jest has been used to create and r
 * **Shape Classes:** Verify that each shape class (Triangle, Circle, Square) correctly renders the SVG markup based on the set color.
 * **Rendering Logic:** Ensure that the render() methods for each shape produce the expected SVG output.
   
-To run the tests, ensure that Jest has been installed using the command "npm install --save-dev jest" and run the tests by entering "npm run test."
+To run the tests, ensure that Jest has been installed using the command "npm install --save-dev jest" and enter "npm run test."
 
 ## Questions
 Please contact me directly with any questions. My information is below:  
