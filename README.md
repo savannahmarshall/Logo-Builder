@@ -46,6 +46,8 @@ To use this application, follow these steps:
     * Right-click on logo.svg and select "Reveal in File Explorer."
     * Right-click on logo.svg again, choose "Open with," and select your preferred browser.
 
+You should now see your customized logo in the browser, displaying the text, shape, and colors you selected.
+
 Please click [here]() to view a demo on how to use this application.
 
 
