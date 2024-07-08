@@ -2,17 +2,21 @@
   "name": "svg-logo-maker",
   "version": "1.0.0",
   "description": "A command-line application that generates an SVG logo based on user input.",
-  "main": "SVG-Logo-Maker.js", 
+  "main": "SVG-Logo-Maker.js",
   "directories": {
     "example": "examples",
     "lib": "lib"
   },
   "scripts": {
     "test": "jest",
-    "start": "node SVG-Logo-Maker.js" 
+    "start": "node SVG-Logo-Maker.js"
   },
-
-  "keywords": ["svg", "logo", "cli", "generator"],
+  "keywords": [
+    "svg",
+    "logo",
+    "cli",
+    "generator"
+  ],
   "license": "ISC",
   "dependencies": {
     "inquirer": "^10.0.0"
