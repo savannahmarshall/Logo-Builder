@@ -50,9 +50,9 @@ You should now see your customized logo in the browser, displaying the text, sha
 Please click [here]() to view a demo on how to use this application.
 
 
-![screenshot of logo example]()
+![screenshot of logo example](https://github.com/savannahmarshall/SVG-Logo-Maker/blob/main/assets/Logo.png)
 
-![screenshot of logo questions and answers in command line]()
+![screenshot of logo questions and answers in command line](https://github.com/savannahmarshall/SVG-Logo-Maker/blob/main/assets/commandline.png)
 
 
 
