@@ -13,7 +13,6 @@ This command-line application generates a logo based on user input and saves it 
 * Testing Complexity: Understanding the numerous components needed for comprehensive tests was challenging.
 * Inquirer Import Issue: Encountered and resolved a bug related to importing the Inquirer package.
 * Switch/Case Implementation: Initially found switch/case statements confusing but overcame this by researching examples.
-* Text Centering: Faced difficulties in centering text within the square and circle shapes, which required additional research and adjustments.
 
 By tackling these challenges, I enhanced my understanding of creating interactive command-line applications, utilizing object-oriented programming principles, and conducting effective unit testing.
 
