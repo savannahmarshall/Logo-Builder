@@ -31,7 +31,20 @@ To use this application, you must install [Node.js](https://nodejs.org/en). Befo
 
 ## Usage
 
-To use this application, start by confirming that Node.js is installed on your machine. The official Node.js website is linked above in the installation section. Navigate to the correct folder and type "npm install inquirer@8.2.4" into the command-line, followed by "npm install --save-dev jest". To initialize the prompts, type "node index.js". Fill out your answers to the questions. Finally, navigate to "logo.svg" which is located inside the "examples" file. Right click on the file and select "reveal in file explorer," right click once more on "logo" and press "open with" and choose your desired browser. You should now be able to view the logo in the browser with the text you entered, your selected shape, shape color and text color. 
+To use this application, follow these steps:
+
+1. Ensure Node.js is Installed: Confirm that Node.js is installed on your machine. If not, download and install it from the official Node.js website.
+
+2. Install Dependencies: Navigate to the project folder in your command line and run the following commands to install the necessary dependencies:
+   * npm install inquirer@8.2.4
+   * npm install --save-dev jest
+3. Run the Application: Initialize the command-line prompts by typing:
+   * node index.js
+4. Answer Prompts: Follow the prompts to enter your text (up to three characters), select your desired shape and colors.
+5. View the Generated Logo: The generated logo will be saved as logo.svg inside the examples folder. To view it:
+    * Navigate to the examples folder.
+    * Right-click on logo.svg and select "Reveal in File Explorer."
+    * Right-click on logo.svg again, choose "Open with," and select your preferred browser.
 
 Please click [here]() to view a demo on how to use this application.
 
