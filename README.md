@@ -19,7 +19,6 @@ Some challenges I faced were:
 
 ## Table of Contents
   
-- [Description](#Description)
 - [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
