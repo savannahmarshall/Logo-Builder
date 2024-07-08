@@ -47,6 +47,7 @@ Please click [here]() to view a demo on how to use this application.
 * [JavaScript](https://www.javascript.com/)
 * [Node.js](https://nodejs.org/en)
 * [Inquirer](https://www.npmjs.com/package/inquirer/v/8.2.4)
+* [Jest](https://jestjs.io/)
 
 ## License
 This project was created using the [MIT License](https://opensource.org/license/MIT).
